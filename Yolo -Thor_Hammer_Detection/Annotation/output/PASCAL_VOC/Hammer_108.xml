@@ -1,0 +1,14 @@
+<annotation>
+  <folder>input</folder>
+  <filename>Hammer_108.jpg</filename>
+  <path>C:\Users\lokesh\Desktop\Yolo-Training-GoogleColab-master\data_converstion\main\input\Hammer_108.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2872</width>
+    <height>1438</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>

@@ -1,0 +1,134 @@
+<annotation>
+  <folder>input</folder>
+  <filename>Hammer_007.jpg</filename>
+  <path>C:\Users\lokesh\Desktop\Yolo-Training-GoogleColab-master\data_converstion\main\input\Hammer_007.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2480</width>
+    <height>3508</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>365</xmin>
+      <ymin>739</ymin>
+      <xmax>401</xmax>
+      <ymax>760</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>449</xmin>
+      <ymin>1333</ymin>
+      <xmax>517</xmax>
+      <ymax>1515</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>494</xmin>
+      <ymin>1333</ymin>
+      <xmax>835</xmax>
+      <ymax>2126</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>544</xmin>
+      <ymin>1708</ymin>
+      <xmax>756</xmax>
+      <ymax>2131</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1094</xmin>
+      <ymin>2501</ymin>
+      <xmax>1158</xmax>
+      <ymax>2677</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>184</xmin>
+      <ymin>433</ymin>
+      <xmax>1175</xmax>
+      <ymax>2597</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>799</xmin>
+      <ymin>546</ymin>
+      <xmax>1130</xmax>
+      <ymax>1488</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>693</xmin>
+      <ymin>465</ymin>
+      <xmax>1158</xmax>
+      <ymax>755</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1082</xmin>
+      <ymin>2645</ymin>
+      <xmax>1163</xmax>
+      <ymax>2672</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1226</xmin>
+      <ymin>2592</ymin>
+      <xmax>1483</xmax>
+      <ymax>2704</ymax>
+    </bndbox>
+  </object>
+</annotation>

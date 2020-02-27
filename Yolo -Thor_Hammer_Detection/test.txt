@@ -1,0 +1,3 @@
+/content/darknet/Thor_Hammer_Detection/data/Hammer_010.jpg
+/content/darknet/Thor_Hammer_Detection/data/Hammer_107.jpg
+/content/darknet/Thor_Hammer_Detection/data/Hammer_113.jpg

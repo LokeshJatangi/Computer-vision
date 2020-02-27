@@ -1,0 +1,5 @@
+classes= 1  
+train  = /content/darknet/Thor_Hammer_Detection/train.txt  
+valid  = /content/darknet/Thor_Hammer_Detection/test.txt  
+names = /content/darknet/Thor_Hammer_Detection/obj.names  
+backup = backup/

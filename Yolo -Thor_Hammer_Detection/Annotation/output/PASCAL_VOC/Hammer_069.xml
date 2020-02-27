@@ -1,0 +1,38 @@
+<annotation>
+  <folder>input</folder>
+  <filename>Hammer_069.jpg</filename>
+  <path>C:\Users\lokesh\Desktop\Yolo-Training-GoogleColab-master\data_converstion\main\input\Hammer_069.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>832</width>
+    <height>562</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>8</xmin>
+      <ymin>11</ymin>
+      <xmax>347</xmax>
+      <ymax>543</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>THOR Hammer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>428</xmin>
+      <ymin>13</ymin>
+      <xmax>827</xmax>
+      <ymax>545</ymax>
+    </bndbox>
+  </object>
+</annotation>
